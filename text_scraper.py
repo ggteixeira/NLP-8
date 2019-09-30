@@ -23,6 +23,6 @@ blacklist.remove('p')
 
 for t in text:
     if t.parent.name not in blacklist:
-        output += f"{t}"
+        output += f"{t}\n"
 
-print(text)
+print(output)
