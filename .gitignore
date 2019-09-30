@@ -2,7 +2,6 @@
 *.log
 *.pot
 *.pyc
-__pycache__
 db.sqlite3
 media
 
@@ -116,5 +115,7 @@ GitHub.sublime-settings
 .history
 
 # macOS
-
 *.DS_Store
+
+# Outer
+*__pycache__
