@@ -1,4 +1,4 @@
-# Limpador de corpora
+# Limpador de Corpus
 
 ## Introdução
 
