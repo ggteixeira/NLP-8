@@ -2,9 +2,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-#  Interação com o usuário
-# url = input("Insira uma URL: ")
-
 
 def get_url():
     return "https://manualdousuario.net/sobre/"
@@ -45,4 +42,4 @@ def deep_clean(set_blacklist, html_clean):
             output += f"{token }\n"
     return output
 
-deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page(get_url())))))
+print(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page(get_url()))))))
