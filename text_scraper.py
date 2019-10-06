@@ -1,9 +1,11 @@
 # Importação de módulos
 import requests
+import time
 from bs4 import BeautifulSoup
 
 
-def get_test_url(default_url='https://pt.wikipedia.org/'):
+
+def get_test_url(default_url='http://hmpg.net/'):
     test_url = input("Digite uma URL: ")
     if len(test_url) == 0:
         return default_url
@@ -50,7 +52,11 @@ def deep_clean(set_blacklist, html_clean):
     return output
 
 def write_into_file(deep_clean):
-    return deep_clean
+    text_file = open(f'corpora/corpus_{time.time()}.txt', 'w')
+    for token in deep_clean:
+        text_file.write(token)
+    text_file.close()
+
 
 print(write_into_file(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page()))))))
 # print(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page())))))
