@@ -3,12 +3,19 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def get_url():
-    return "https://manualdousuario.net/sobre/"
+def get_test_url(default_url='https://pt.wikipedia.org/'):
+    test_url = input("Digite uma URL: ")
+    if len(test_url) == 0:
+        return default_url
+    else:
+        return test_url
 
-
-# Faz um requeset da URL e a salva numa variável
-def get_page(url):
+# Faz um request da URL e a salva numa variável
+def get_page(url=None):
+    if url is None:
+        return requests.get(get_test_url())
+    else:
+        url = input()
     return requests.get(url)
 
 
@@ -42,4 +49,8 @@ def deep_clean(set_blacklist, html_clean):
             output += f"{token }\n"
     return output
 
-print(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page(get_url()))))))
+def write_into_file(deep_clean):
+    return deep_clean
+
+print(write_into_file(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page()))))))
+# print(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page())))))
