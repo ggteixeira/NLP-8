@@ -14,7 +14,7 @@ Esta ferramenta escrita em Python tem como objetivo ajudar o usuário ao menos n
 
 - [x] Modularizar o código em funções
 - [ ] Organizar projeto em pacotes (arquivos) dedicados
-- [ ] Feature: implementar a funcionalidade de escrever o corpus limpo em um arquivo ".txt".
+- [x] Feature: implementar a funcionalidade de escrever o corpus limpo em um arquivo ".txt".
 - [ ] Em vez de filtrar *anchors* (*aka* tags `<a href>`), mostrar seu texto, removendo os links dele
 
 ## Bibliografia utilizada
