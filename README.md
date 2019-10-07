@@ -21,3 +21,6 @@ Esta ferramenta escrita em Python tem como objetivo ajudar o usuário ao menos n
 
 * **Tutorial**: [Extract text from a webpage using BeautifulSoup and Python](https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/)
 
+* Requests: https://realpython.com/python-requests/
+
+  
