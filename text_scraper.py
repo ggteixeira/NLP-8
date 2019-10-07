@@ -59,4 +59,3 @@ def write_into_file(deep_clean):
 
 
 print(write_into_file(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page()))))))
-# print(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page())))))
