@@ -1,7 +1,7 @@
 # Importação de módulos
 import requests
-import time
 from bs4 import BeautifulSoup
+from random import randrange
 
 
 
@@ -52,7 +52,7 @@ def deep_clean(set_blacklist, html_clean):
     return output
 
 def write_into_file(deep_clean):
-    text_file = open(f'corpora/corpus_{time.time()}.txt', 'w')
+    text_file = open(f'corpora/corpus_{randrange(0, 100000)}.txt', 'w')
     for token in deep_clean:
         text_file.write(token)
     text_file.close()
