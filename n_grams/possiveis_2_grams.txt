@@ -75,6 +75,7 @@ corrente alternada
 corrente contínua
 corrida espacial
 cristal líquido
+crystal display
 cursos montagem
 câmeras digitais
 câmeras fotográficas
@@ -226,7 +227,6 @@ revisor ortográfico
 riscos desnecessários
 roupa suja
 ruídos externos
-crystal isplay
 santiago junior
 sata iii
 sc cep

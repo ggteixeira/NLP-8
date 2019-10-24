@@ -1,9 +1,8 @@
-display
-mouse
 cd
+display
 dvd
 hd
-teclado
 mouse
-trackpad
+teclado
 touchpad
+trackpad

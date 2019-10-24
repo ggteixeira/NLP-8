@@ -1,15 +1,13 @@
-disco rígido
-placa mãe
-memória principal
-slots pci
-hard disk
-discos flexíveis
-hd externo
 cabeça magnética
 circuito impresso
+disco rígido
+discos flexíveis
+hard disk
+hd externo
+memória principal
 painel frontal
 painéis eletroluminesentes
 peças antigas
+placa mãe
+slots pci
 telas capacitivas
-
-

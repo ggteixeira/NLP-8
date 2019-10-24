@@ -1,16 +1,15 @@
-placa de vídeo
-fonte de alimentação
-unidade de disco
-placa de som
-placa de circuito
-pente de memória
-cartões de memória
 aparelhos de televisão
 caixas de som
+cartões de memória
 chip de silício
 drives de cd
+fonte de alimentação
 gravador de videocassete
 impressoras a jato
+pente de memória
+placa de circuito
+placa de som
+placa de vídeo
 sensor de deslocamento
 slots de expansão
 tipo de soquete
@@ -18,12 +17,8 @@ tipos de conectores
 tipos de drives
 tipos de memórias
 tipos de placa
+unidade de disco
 unidades de disco
 unidades de disquete
 unidades de dvd
 unidades de entrada
-
-
-
-
-
