@@ -42,7 +42,6 @@ brinquedos para crianças
 básicos e aplicativos
 cache e interface
 caderno cuja capa
-caixas de som
 camadas de silício
 cambada de chato
 canja de galinha
@@ -54,11 +53,9 @@ caracter ou símbolo
 caracteres por segundo
 característica permite economia
 carros possuem variações
-cds e dvds
 centenas de milhares
 centro de maringá
 chance de recuperação
-chip de silício
 chip em especial
 ciclo de operação
 ciclos de escrita
@@ -118,7 +115,6 @@ divulgação e popularização
 dobro de núcleo
 documentos de texto
 documentos em texto
-drives de cd
 durabilidade contra danos
 dvd em torno
 dvd ou bd
@@ -185,7 +181,6 @@ gargalos e problemas
 gbytes de capacidades
 geração de imagens
 gold e platinum
-gravador de videocassete
 grupo de agulhas
 gráfico ou gpu
 habitantes de paises
@@ -193,7 +188,6 @@ hardware e software
 hd e placas
 hd ou disco
 hds e drivers
-hds para notebooks
 hora de comprar
 humildade e canja
 ide e sata
@@ -201,7 +195,6 @@ ide ou sata
 imagens de vídeos
 imagens e efeitos
 impacto ou acúmulo
-impressoras a jato
 impressoras de jato
 impulso por segundo
 indicador de modo
@@ -384,7 +377,6 @@ saídas de ar
 sc cep ofertas
 segundo o dicionário
 selos de eficiência
-sensor de deslocamento
 servidor ou plataforma
 seção de compatibilidade
 siga os mesmos
@@ -397,7 +389,6 @@ sistema mais lento
 sistema o computador
 sistemas de refrigeração
 sites de fofocas
-slots de expansão
 softwares para poder
 sol que clario
 soluções em informatica
@@ -408,7 +399,6 @@ série de instruções
 ta arrotando superioridade
 ta ligado direto
 tao e otimo
-teclado e mouse
 teclas para letras
 telas em tamanhos
 tempos em tempos
@@ -421,12 +411,7 @@ thx legal rafa
 tipo de encaixe
 tipo de memória
 tipo de slot
-tipo de soquete
 tipos de arquivos
-tipos de conectores
-tipos de drives
-tipos de memórias
-tipos de placa
 tomada de decisão
 tomada para valores
 top de linha
@@ -434,7 +419,6 @@ torna um expert
 trabalho com manutenção
 trabalho pra min
 trabalhos de pesquisa
-trackpad ou touchpad
 transferência de dados
 transistores em múltiplos
 transmissão de dados
@@ -444,10 +428,6 @@ técnico de suporte
 técnico em informática
 unidade de sistema
 unidade do sistema
-unidades de disco
-unidades de disquete
-unidades de dvd
-unidades de entrada
 universidade ou instituição
 use o portátil
 vaca e chorao
