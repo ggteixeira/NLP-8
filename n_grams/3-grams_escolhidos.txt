@@ -1,12 +1,10 @@
 placa de vídeo
 fonte de alimentação
-memória de acesso
 unidade de disco
 placa de som
 placa de circuito
 pente de memória
 cartões de memória
-unidade de processamento
 aparelhos de televisão
 caixas de som
 chip de silício
