@@ -1,0 +1,9 @@
+display
+mouse
+cd
+dvd
+hd
+teclado
+mouse
+trackpad
+touchpad
