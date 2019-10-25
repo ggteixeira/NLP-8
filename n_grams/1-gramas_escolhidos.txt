@@ -1,8 +1,10 @@
-cd
-display
-dvd
-hd
+HDD
 mouse
 teclado
-touchpad
 trackpad
+SSD
+bateria
+SATA
+Modem
+Gabinete
+microfone

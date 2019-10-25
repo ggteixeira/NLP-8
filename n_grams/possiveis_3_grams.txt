@@ -307,8 +307,6 @@ pilha de pratos
 pincel ou cotonete
 pinos ou contatos
 placa de rede
-placas de rede
-placas de vídeo
 poder de fogo
 polegadas de comprimento
 ponto de partida
@@ -453,3 +451,17 @@ válvula selada vaza
 windows e clique
 época de discretos
 ídolos são pessoas
+aparelhos de televisão
+cartões de memória
+chip de silício
+gravador de videocassete
+impressoras a jato
+sensor de deslocamento
+tipo de soquete
+tipos de conectores
+tipos de drives
+tipos de memórias
+tipos de placa
+unidades de entrada
+unidades de disco
+unidade de disco

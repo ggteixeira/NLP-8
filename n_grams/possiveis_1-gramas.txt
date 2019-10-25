@@ -4,3 +4,7 @@ hds para notebooks
 mouses analógicos
 teclado e mouse
 trackpad ou touchpad
+dvd
+touchpad
+monitor
+cooler

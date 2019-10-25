@@ -1,13 +1,6 @@
-cabeça magnética
-circuito impresso
 disco rígido
-discos flexíveis
-hard disk
 hd externo
-memória principal
-painel frontal
-painéis eletroluminesentes
-peças antigas
-placa mãe
+placa-mãe
 slots pci
-telas capacitivas
+monitor LCD
+monitor CRT
