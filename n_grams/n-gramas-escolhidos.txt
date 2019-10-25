@@ -1,0 +1,30 @@
+Gabinete
+HDD
+Modem
+SATA
+SSD
+bateria
+caixas de som
+disco rígido
+drives de cd
+fonte de alimentação
+hd externo
+memória de acesso aleatório
+microfone
+monitor CRT
+monitor LCD
+mouse
+pente de memória
+placa de circuito
+placa de som
+placa de vídeo
+placa-mãe
+placas de rede
+placas de vídeo
+slots de expansão
+slots pci
+teclado
+trackpad
+unidade de processamento
+unidades de disquete
+unidades de dvd
