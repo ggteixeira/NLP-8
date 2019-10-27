@@ -32,10 +32,6 @@ Embora soe estranho imaginar que um computador, dispositivo elétrico, carregáv
 
 Caixas de som são consideradas periféricos, pois são posicionadas fora do gabinete dos computadores. Elas podem ser conectadas ao computador basicamente via cabo ou via bluetooth e são responsáveis pelos sons que o computador faz, desde bipes e sons do sistema operacional (Windows, Linux, macOS, BSD) até mídia como músicas, *podcasts* etc. Existem variações usadas por profissionais de áudio, os chamados monitores de áudio, que proporcionam ao usuário uma fidelidade sonora bastante superior à das caixas de som padrão que são vendidas juntamente com os desktops de uso pessoal geral. Nem todo equipamento sonoro pode ser considerado um periférico basicamente porque nem todo dispositivo sonoro em um computador precisa necessariamente estar em sua periferia. Laptops, por exemplo, possuem saídas de som embutidas. Em motherboards mais antigas, por exemplo, existem pequenas saídas de som responsáveis por mostrar no boot um bipe de status de sucesso ou falha no arranque do sistema operacional pela BIOS. 
 
-## Disco Rígido
-
-Discos rígidos (*hard disks*) são dispositivos de armazenamento físico permanente. Também são conhecidos como HDDs (em inglês *Hard Drive Disks*). 
-
 drives de cd
 fonte de alimentação
 hd externo
