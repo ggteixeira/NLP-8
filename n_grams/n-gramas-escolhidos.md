@@ -75,9 +75,11 @@ A placa de som é um componente interno presente em computadores pessoais. Ela �
 
 ## Placa de Vídeo
 
-As placas de vídeo, também conhecidas como GPUs ou placas gráficas, são placas que possuem uma quantidade de memória RAM autônoma, além de um processador próprio também, usados especificamente para processamento gráfico independente. São usadas em computadores que requerem alto poder de renderização de imagens e, portanto, são itens muito caros a gamers, fotógrafos, designers, arquitetos, editores de vídeo, entre outros profissionais. Computadores cuja configuração não atende a requisitos desse tipo de profissional são chamados de "onboard", pois possuem uma placa de vídeo não física, integrada à placa-mãe e, portanto, dependente dela e do processamento principal da máquina. Já as máquinas "offboard" são as que possuem processamento gráfico dedicado.
+As placas de vídeo, também conhecidas como GPUs ou placas gráficas, são placas que possuem uma quantidade de memória RAM autônoma, além de um processador próprio também, usados especificamente para processamento gráfico independente. São usadas em computadores que requerem alto poder de renderização de imagens e, portanto, são itens muito caros a gamers, fotógrafos, designers, arquitetos, editores de vídeo, entre outros profissionais. Computadores cuja configuração não atende a requisitos desse tipo de profissional são chamados de "onboard", pois possuem uma placa de vídeo não física, integrada à placa-mãe e, portanto, dependente dela e do processamento principal da máquina. Já as máquinas "offboard" são as que possuem processamento gráfico dedicado através das placas de vídeo acopladas à placa-mãe.
 
-## placa-mãe
+## Placa-mãe
+
+As placas-mãe (do inglês *motherboard*) são itens essenciais para o funcionamento tanto físico quanto virtual dos computadores pessoais. É na placa-mãe onde são acoplados componentes como o cabo da fonte de alimentação, a CMOS da BIOS, as placas de rede (Fax Modem), placas de vídeo e placas de som, os cabos do HDD/SSD, dos drivers de disquete/CD/DVD, entre outros componentes. É no hardware da placa-mãe onde fica a BIOS, o firmware que serve basicamente para bootar o sistema operacional e gerenciar a primeira checagem de hardware antes de ignificar o sistema. A placa-mãe é, por definição, o componente mais importante do computador, não porque sem itens como o CPU o computador funcionaria, mas porque sem ela os outros componentes essenciais são fisicamente incapazes até mesmo de receberem qualquer corrente elétrica.
 
 placas de rede
 placas de vídeo
