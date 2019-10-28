@@ -101,5 +101,9 @@ O que os mouses são para os computadores de mesa, os trackpads (ou *touchpads*)
 
 Se as placas-mãe são as peças mais importantes de um computador, as unidades de processamento central (também conhecidas como CPUs, do inglês *central processing unit*) são as peças principais. Elas são conhecidas analogamente como o cérebro do computador, pois é na CPU onde são processados todos os cálculos que dizem ao sistema operacional o que fazer, como fazer e quando fazer. Um computador é mais rápido ou menos de acordo com a quantidade de cálculos que a sua CPU é capaz de fazer por segundo. Para isso, as CPUs atuais contam com diversos núcleos interdependentes que fazem com que várias tarefas sejam executadas paralelamente com máxima eficiência abrindo mão o mínimo possível de velocidade. 
 
-unidades de disquete
-unidades de dvd
+## Unidades de disquete
+
+## unidades de dvd
+
+Os drives de DVD (em inglês, *digital versatile disk*) hoje em dia estão em quase que em completo desuso, muito porque os próprios DVDs são hoje em dia considerados tipos de mídia frágeis e pouco confiáveis para ser guardar informações importantes, sendo subsituídos por mídias como o blu-ray e também por mídias 1000% digitais. Entretanto, os drives de DVD foram bastante úteis até a década de 2000 não apenas por sua capacidade de ler conteúdo nesses discos (no caso, os drives de DVD especificamente), mas também porque alguns deles eram capazes também de escreverem informações em DVDs do tipo *ReWritable*, também conhecidos como *CD-RW* e *DVD-RW*.
+
