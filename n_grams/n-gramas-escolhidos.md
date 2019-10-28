@@ -32,17 +32,47 @@ Embora soe estranho imaginar que um computador, dispositivo elétrico, carregáv
 
 Caixas de som são consideradas periféricos, pois são posicionadas fora do gabinete dos computadores. Elas podem ser conectadas ao computador basicamente via cabo ou via bluetooth e são responsáveis pelos sons que o computador faz, desde bipes e sons do sistema operacional (Windows, Linux, macOS, BSD) até mídia como músicas, *podcasts* etc. Existem variações usadas por profissionais de áudio, os chamados monitores de áudio, que proporcionam ao usuário uma fidelidade sonora bastante superior à das caixas de som padrão que são vendidas juntamente com os desktops de uso pessoal geral. Nem todo equipamento sonoro pode ser considerado um periférico basicamente porque nem todo dispositivo sonoro em um computador precisa necessariamente estar em sua periferia. Laptops, por exemplo, possuem saídas de som embutidas. Em motherboards mais antigas, por exemplo, existem pequenas saídas de som responsáveis por mostrar no boot um bipe de status de sucesso ou falha no arranque do sistema operacional pela BIOS. 
 
-drives de cd
-fonte de alimentação
-hd externo
-memória de acesso aleatório
-microfone
-monitor CRT
-monitor LCD
-mouse
-pente de memória
-placa de circuito
-placa de som
+## Drives de CD
+
+Os drives de CD (em inglês, *compact disk*) hoje em dia estão em quase que em completo desuso, muito porque os próprios CDs são hoje em dia considerados tipos de mídia frágeis e pouco confiáveis para ser guardar informações importantes. Memórias de armazenamento do tipo flash são mais recomendadas. Entretanto, os drives de CD foram bastante úteis até a década de 2000 não apenas por sua capacidade de ler CDs e DVDs (no caso, os drives de CD/DVD especificamente), mas também porque alguns deles eram capazes também de escreverem informações em CDs/DVDs do tipo *ReWritable*, também conhecidos como *CD-RW* e *DVD-RW*.
+
+## Fonte de Alimentação
+
+Todo computador de mesa (também chamado *desktop*) necessita de uma fonte de alimentação plugada à placa-mãe para que seja estabelecida uma conexão entre a corrente elétrica e todos os componentes elétricos conectados à placa-mãe, sejam eles periféricos ou não (exceto os dispositivos *Bluetooth*). A fonte de alimentação tem como função principal transformar a corrente alternada (AC) em corrente contínua (DC). Ela também atua em conjunto com *no-breaks* e estabilizadores de corrente de forma a atenuar picos de instabilidade na corrente elétrica que chega no computador. É, assim, um componente imprescindível não só para o funcionamento da máquina, mas também para a sua segurança e durabilidade.  
+
+## HD Externo
+
+HDs Externos, embora tenham um nome muito parecido, em português brasileiro, com o outro tipo de armazenamento físico permanente popular, eles são muito mais parecidos com os SSDs do que com os HDs, pois o "D" de "HD Externo" não significa o mesmo segundo "D" de "HDD", que é "Disk", e sim "Drive". Ou seja, o nome completo de HD Externo, no original em inglês, é "External Hard Drive", e não "External Hard Disk". O HD Externo na prática situa-se entre ser um *pen drive* gigante e um SSD portátil. Sua praticidade está na portabilidade do usuário poder transportar uma grande quantidade de dados e na segurança garantida pelo tipo de memória (flash) que o HD Externo possui.
+
+## Memória de Acesso Aleatório
+As memórias RAM (Random Access Memory) também são capazes de armazenar dados produzidos pelos computadores, porém, ao contrário das memórias físicas, elas somente perduram enquanto a máquina estiver ligada. As memórias de acesso aleatório intermediam informações entre o HDD/SSD e o processador. Quanto mais memória o computador possuir, mais cálculos por segundo o processador será capaz de fazer, significando na prática mais e mais pesados programas/*apps* rodando em uma mesma máquina. A evolução dos tipos de memória RAM são: DDR, DDR2, DDR3, DDR4 e DDR5. Os tipos de chip são fisicamente incompatíveis, impossibilitando qualquer retrocompatibilidade. Atualmente a memória DDR3 (do inglês *Double Data Rate*) é a mais popular em computadores pessoais, embora já existam placas de vídeo com memórias DDR4 e DDR5 embutidas.
+
+## Microfone
+
+O microfone é um componente do computador que está na lista de periféricos. Sua função não é de forma alguma vital para o funcionamento essencial de um computador ou de um sistema operacional normal. Como ele fornece entrada de dados (de áudio), sua função é a de criação de mídia de áudio e a de conversação entre pessoas via internet. Em laptops, geralmente microfones são componentes embutidos, internos, não enquadrando-se entre periféricos. Popularizaram-se entre os computadores pessoais na época da ascensão das *web cams* e da alvorada da comunicação online. Assim como caixas de som profissionais, os chamados monitores de áudio, há também uma gama enorme de microfones capacitados para captar áudio com alta fidelidade que serão transformados em arquivos de áudio pelo computador.
+
+## Monitor CRT
+
+Popularmente conhecidos como "monitores de tubo", os monitores CRT (em inglês *cathode ray tube*) são uma tecnologia de monitores para computador atualmente em desuso, mas que foram predominantes até o final da década de 2000. Os raios catódicos foram descobertos no final do século XIX, mas somente a partir da década de 50 do século XX é que monitores de CRT passaram e ser usados em computadores. Eles possuem um canhão de elétrons que é usado para acender células de fósforo capazes de mostrar imagens na tela. Essa tecnologia foi eventualmente substituída pelas telas de cristal líquido (LCD, do inglês *liquid crystal display*), por apresentarem imagens de alta resolução, telas monitores mais finos, mais leves e mais energeticamente econômicos.
+
+(Fonte: Guia do Hardware(https://www.hardware.com.br/termos/crt))
+
+## Monitor LCD
+
+Os monitores de LCD são os responsáveis pela aposentadoria dos antigos "monitores de tubo", os CRT. Além de permitirem uma melhor resolução nas imagens, eles são drasticamente mais finos, mais econômicos e mais leves. Hoje em dia existem outras tecnologias para telas, tais como as telas de LED (do inglês *light-emitting diode*) e as telas feitas com plasma, muito embora as telas de plasma estejam se tornando obsoletas. Diferentemente das telas de LED, as telas de LCD possuem um painel de luz que é aceso de forma permanente, mostrando uma gama intensa de cores, inclusive o branco e o preto. Por outro lado, os monitores de LED conseguem mostrar pretos mais fiéis, pois para mostrar pixels pretos o ponto de luz onde o preto aparecerá permanece apagado. Em contrapartida, monitores LCDs atingem tons de branco mais fiéis do que as de LED.
+
+## Mouse
+
+Os mouses estão entre os componentes mais importantes dos computadores pessoais -- ao menos no que diz respeito aos desktops --, muito embora eles sejam periféricos, o que significa que não chegam a ser essenciais para o funcionamento de máquina em si. Por outro lado, os sistemas operacionais mais famosos tem sua experiência de usuário (a UX) toda centrada em cliques do mouse e textos imputados pelo usuário. Isso faz do mouse um componente virtualmente imprescindível para a informática -- e nesta, e apenas nesta, definição englobo o touchpad/trackpad também. São peças conectadas ao computador via cabo USB ou via *Bluetooth* que são capazes de responder aos gestos do usuário, que movimenta um ponteiro cuja função é interagir com a interface do sistema operacional e seus programas.
+
+## Placa de Circuito
+
+As placas de circuito fazem parte de uma verdadeira revolução na computação, que marcou a obsolescência das placas que utilizavam válvulas para poderem funcionar e deram lugar à era dos transistores. Essa renovação possibilitou que os computadores diminuíssem de tamanho drasticamente a partir da década de 60 do séc. XX. Eles são vulgarmente conhecidos como "chips" ou, menos vulgarmente, como "placas de circuito impresso". E, como o nome já diz, são placas onde são desenhadas linhas ligando pontos. Essa inovação possibilitou o boom da microinformática e, consequentemente, o surgimento dos primeiros computadores pessoais, tais como o IMB PC e o Apple II, considerados os primeiros PCs (do inglês *personal computers*) da história.
+
+## Placa de Som
+
+A placa de som é um componente interno presente em computadores pessoais. Ela é responsável por permitir a transmissão de áudio entre o computador e dispositivos e áudio, tais como caixas de som, microfones, fones de ouvido etc. Elas são plugadas diretamente na placa-mãe do computador, apresentando para o lado exterior do gabinete plugues, sejam eles de microfones, de caixas de som ou de fones de ouvido.
+
 placa de vídeo
 placa-mãe
 placas de rede
