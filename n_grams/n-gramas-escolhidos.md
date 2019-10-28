@@ -71,7 +71,7 @@ As placas de circuito fazem parte de uma verdadeira revolução na computação,
 
 ## Placa de Som
 
-A placa de som é um componente interno presente em computadores pessoais. Ela é responsável por permitir a transmissão de áudio entre o computador e dispositivos e áudio, tais como caixas de som, microfones, fones de ouvido etc. Elas são plugadas diretamente na placa-mãe do computador, apresentando para o lado exterior do gabinete plugues, sejam eles de microfones, de caixas de som ou de fones de ouvido.
+A placa de som é um componente interno presente em computadores pessoais. Ela é responsável por permitir a transmissão de áudio entre o computador e dispositivos e áudio, tais como caixas de som, microfones, fones de ouvido etc. Elas são plugadas diretamente na placa-mãe do computador, apresentando para o lado exterior do gabinete plugues, sejam eles de microfones, de caixas de som ou de fones de ouvido. Antigamente, antes do advento das placas de som, o único som que o computador pessoal fazia era o bipe característico da placa-mãe sinalizando ao usuário se o processo de boot foi um sucesso ou não -- e qual tipo de erro pode ter ocorrido, de acordo com a quantidade e a intensidade dos "bipes de erro".
 
 placa de vídeo
 placa-mãe
