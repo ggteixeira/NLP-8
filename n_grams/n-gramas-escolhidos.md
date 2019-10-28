@@ -101,9 +101,14 @@ O que os mouses são para os computadores de mesa, os trackpads (ou *touchpads*)
 
 Se as placas-mãe são as peças mais importantes de um computador, as unidades de processamento central (também conhecidas como CPUs, do inglês *central processing unit*) são as peças principais. Elas são conhecidas analogamente como o cérebro do computador, pois é na CPU onde são processados todos os cálculos que dizem ao sistema operacional o que fazer, como fazer e quando fazer. Um computador é mais rápido ou menos de acordo com a quantidade de cálculos que a sua CPU é capaz de fazer por segundo. Para isso, as CPUs atuais contam com diversos núcleos interdependentes que fazem com que várias tarefas sejam executadas paralelamente com máxima eficiência abrindo mão o mínimo possível de velocidade. 
 
-## Unidades de disquete
+## Unidades de Disquete
+
+Unidades de disquete são dispositivos de armazenamento para computadores. Eles ler e gravar dados em disquetes removíveis. O disquete foi o  dispositivo de armazenamento do computador dominante na década de 1980 e início de 1990. No entanto, ele começou a cair em desuso, como  unidades de CD-ROM diminuição no preço, e os consumidores começaram a  exigir maior capacidade de armazenamento. Hoje, os disquetes são raros, praticamente inexistentes. Hoje em dia, é muito difícil encontrar um computador novo com uma unidade de disquete acoplada à placa-mãe. A Sony, uma das últimas empresas a parar de fabricar disquetes, encerrou tais atividades em 2011, tornando-os praticamente obsoletos. Hoje em dia, seu uso é considerado meramente uma exceção.
+
+
+
+(Fonte: Computer (http://ptcomputador.com/Ferragens/computer-drives-storage/8422.html))
 
 ## unidades de dvd
 
 Os drives de DVD (em inglês, *digital versatile disk*) hoje em dia estão em quase que em completo desuso, muito porque os próprios DVDs são hoje em dia considerados tipos de mídia frágeis e pouco confiáveis para ser guardar informações importantes, sendo subsituídos por mídias como o blu-ray e também por mídias 1000% digitais. Entretanto, os drives de DVD foram bastante úteis até a década de 2000 não apenas por sua capacidade de ler conteúdo nesses discos (no caso, os drives de DVD especificamente), mas também porque alguns deles eram capazes também de escreverem informações em DVDs do tipo *ReWritable*, também conhecidos como *CD-RW* e *DVD-RW*.
-
