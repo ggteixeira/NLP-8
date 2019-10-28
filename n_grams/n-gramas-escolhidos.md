@@ -99,7 +99,7 @@ O que os mouses são para os computadores de mesa, os trackpads (ou *touchpads*)
 
 ## Unidade de Processamento Central
 
-
+Se as placas-mãe são as peças mais importantes de um computador, as unidades de processamento central (também conhecidas como CPUs, do inglês *central processing unit*) são as peças principais. Elas são conhecidas analogamente como o cérebro do computador, pois é na CPU onde são processados todos os cálculos que dizem ao sistema operacional o que fazer, como fazer e quando fazer. Um computador é mais rápido ou menos de acordo com a quantidade de cálculos que a sua CPU é capaz de fazer por segundo. Para isso, as CPUs atuais contam com diversos núcleos interdependentes que fazem com que várias tarefas sejam executadas paralelamente com máxima eficiência abrindo mão o mínimo possível de velocidade. 
 
 unidades de disquete
 unidades de dvd
