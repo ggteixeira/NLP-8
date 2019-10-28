@@ -81,12 +81,25 @@ As placas de vídeo, também conhecidas como GPUs ou placas gráficas, são plac
 
 As placas-mãe (do inglês *motherboard*) são itens essenciais para o funcionamento tanto físico quanto virtual dos computadores pessoais. É na placa-mãe onde são acoplados componentes como o cabo da fonte de alimentação, a CMOS da BIOS, as placas de rede (Fax Modem), placas de vídeo e placas de som, os cabos do HDD/SSD, dos drivers de disquete/CD/DVD, entre outros componentes. É no hardware da placa-mãe onde fica a BIOS, o firmware que serve basicamente para bootar o sistema operacional e gerenciar a primeira checagem de hardware antes de ignificar o sistema. A placa-mãe é, por definição, o componente mais importante do computador, não porque sem itens como o CPU o computador funcionaria, mas porque sem ela os outros componentes essenciais são fisicamente incapazes até mesmo de receberem qualquer corrente elétrica.
 
-placas de rede
-placas de vídeo
-slots de expansão
-slots pci
-teclado
-trackpad
-unidade de processamento
+## Slots de Expansão
+
+Placas-mãe são peças nas quais são acoplados outros componentes essenciais para o funcionamento de um computador. Por exemplo, o CPU e a ventoinha do CPU são componentes essenciais que estão presentes na superfície de toda e qualquer placa-mãe. Nessas placas, há ranhuras que servem justamente para que nelas sejam inseridos componentes, tais como pentes de memória RAM, placas de vídeo, de som, de rede etc. A essas ranhuras damos o nome de slot de expansão, pois eles literalmente expandem uma ou mais funcionalidades de um computador. Por exemplo, se você substituir um pente de memória de 4 GB por um de 8 GB, está caracterizada a expansão de uma funcionalidade, que é a da memória de permitir mais velocidade e mais acesso a informações do HDD/SSD para a CPU e da CPU para o HDD/SSD.
+
+## Slots PCI
+
+Se um slot de expansão é uma espécie de ranhura que permite que componentes externos sejam acoplados à placa-mãe, dando a ela funcionalidades extras, PCI (do inglês *Peripheral Component Interconnect*) é o nome dado a um dos vários tipos de slots presentes na placa. Há diversos outros, como o AGP, o AMR, o CNR, o ISA, o VESA etc. O PCI e o PCI Express são responsáveis por fazerem a placa-mãe receber placas de rede, placas de som e placas de vídeo. O slot PCI Express nada mais é que uma versão mais nova e mais rápida do mesmo slot PCI.
+
+## Teclado
+
+O teclado, juntamente com o mouse, formam o par de periféricos de entrada essenciais para a experiência do usuário de computadores pessoais nos dias de hoje. Teclados têm como função principal permitir que o usuário impute dados de texto no sistema operacional, permitindo uma série de ações no sistema e na internet. Pode-se dizer, com uma possível margem de imprecisão histórica, que os teclados são tão antigos quanto os computadores pessoais -- pois eles certamente são mais antigos do que os mouses, criados em 1984 por Douglas Engelbart. Hoje em dia, além de mouses cabeados do tipo USB, existem também mouses *Bluetooth*.
+
+## Trackpad/Touchpad
+
+O que os mouses são para os computadores de mesa, os trackpads (ou *touchpads*) são superfícies nas quais o usuário move seus dedos para emular a o movimento que o mouse faz para arrastar a seta do sistema operacional (Linux, macOS, Windows, BSD etc.) no qual ele estiver interagindo. Existe uma diferença substancial entre trackpads e touchpads, mas que ainda assim não os impede de serem igualmente diferentes de mouses: o touchpad é embutido em laptops, enquanto trackpads são touchpads vendidos separadamente. A depender dos níveis de complexidade e tecnologia aplicada aos touchpads/trackpads, eles podem fazer o sistema operacional entender gestos, cliques duplos, cliques triplos, cliques quádruplos, giros com os dedos etc. Um bom exemplo são os touchpads/trackpads da Apple, usados atualmente no macOS 10.x, cujos gestos são um dos elementos principais da navegação pelo sistema operacional.
+
+## Unidade de Processamento Central
+
+
+
 unidades de disquete
 unidades de dvd
