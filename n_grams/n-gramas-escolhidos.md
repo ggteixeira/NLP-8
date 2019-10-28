@@ -73,8 +73,12 @@ As placas de circuito fazem parte de uma verdadeira revolução na computação,
 
 A placa de som é um componente interno presente em computadores pessoais. Ela é responsável por permitir a transmissão de áudio entre o computador e dispositivos e áudio, tais como caixas de som, microfones, fones de ouvido etc. Elas são plugadas diretamente na placa-mãe do computador, apresentando para o lado exterior do gabinete plugues, sejam eles de microfones, de caixas de som ou de fones de ouvido. Antigamente, antes do advento das placas de som, o único som que o computador pessoal fazia era o bipe característico da placa-mãe sinalizando ao usuário se o processo de boot foi um sucesso ou não -- e qual tipo de erro pode ter ocorrido, de acordo com a quantidade e a intensidade dos "bipes de erro".
 
-placa de vídeo
-placa-mãe
+## Placa de Vídeo
+
+As placas de vídeo, também conhecidas como GPUs ou placas gráficas, são placas que possuem uma quantidade de memória RAM autônoma, além de um processador próprio também, usados especificamente para processamento gráfico independente. São usadas em computadores que requerem alto poder de renderização de imagens e, portanto, são itens muito caros a gamers, fotógrafos, designers, arquitetos, editores de vídeo, entre outros profissionais. Computadores cuja configuração não atende a requisitos desse tipo de profissional são chamados de "onboard", pois possuem uma placa de vídeo não física, integrada à placa-mãe e, portanto, dependente dela e do processamento principal da máquina. Já as máquinas "offboard" são as que possuem processamento gráfico dedicado.
+
+## placa-mãe
+
 placas de rede
 placas de vídeo
 slots de expansão
