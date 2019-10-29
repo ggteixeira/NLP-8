@@ -109,6 +109,6 @@ Unidades de disquete são dispositivos de armazenamento para computadores. Eles 
 
 (Fonte: Computer (http://ptcomputador.com/Ferragens/computer-drives-storage/8422.html))
 
-## unidades de dvd
+## Unidades de dvd
 
 Os drives de DVD (em inglês, *digital versatile disk*) hoje em dia estão em quase que em completo desuso, muito porque os próprios DVDs são hoje em dia considerados tipos de mídia frágeis e pouco confiáveis para ser guardar informações importantes, sendo subsituídos por mídias como o blu-ray e também por mídias 1000% digitais. Entretanto, os drives de DVD foram bastante úteis até a década de 2000 não apenas por sua capacidade de ler conteúdo nesses discos (no caso, os drives de DVD especificamente), mas também porque alguns deles eram capazes também de escreverem informações em DVDs do tipo *ReWritable*, também conhecidos como *CD-RW* e *DVD-RW*.
