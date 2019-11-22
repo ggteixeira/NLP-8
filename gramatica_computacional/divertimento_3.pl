@@ -1,5 +1,7 @@
-s --> sn(ANIM), sv.
-sn --> nome.
-sv --> verbo.
-nome --> [ana] | [joana] | [beatriz] | [fabio] | [fernando] | [menino] | [garoto] | [menina] | [bola(anim)].
-verbo --> [corre] | [morre] | [anda] | [pula].
+s --> sn(ANIMA), sv(ANIMA).
+sn(ANIMA) --> nome(ANIMA).
+sv(ANIMA) --> verbo(ANIMA).
+nome(anim) --> [ana] | [joana] | [beatriz] | [fabio] | [fernando] | [menino] | [garoto] | [menina].
+nome(inanim) --> [bola].
+verbo(anim) --> [morre] | [anda] | [pula].
+verbo(inanim) --> [corre].
