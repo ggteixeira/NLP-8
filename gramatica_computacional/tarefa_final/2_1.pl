@@ -1,3 +1,6 @@
+% O nanocompósito é um material híbrido.
+% Os nanocompósitos são materiais híbridos.
+
 s --> np(NUM), vp(NUM, _TRANSIT).
 
 np(NUM) --> art(NUM), noun(NUM).
