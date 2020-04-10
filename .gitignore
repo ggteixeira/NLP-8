@@ -119,3 +119,6 @@ GitHub.sublime-settings
 
 # Outer
 *__pycache__
+
+# Project files
+corpora/
