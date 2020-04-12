@@ -121,4 +121,4 @@ GitHub.sublime-settings
 *__pycache__
 
 # Project files
-corpora/
+# corpora/
