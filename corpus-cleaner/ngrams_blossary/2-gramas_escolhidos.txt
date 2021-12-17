@@ -1,6 +1,0 @@
-disco rígido
-hd externo
-placa-mãe
-slots pci
-monitor LCD
-monitor CRT
